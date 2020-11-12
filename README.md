@@ -1,0 +1,2 @@
+# BankcardDisplayList
+仿支付宝银卡/卡片的划分方式。将ViewController的代码替换到自己的项目文件controller即可。
